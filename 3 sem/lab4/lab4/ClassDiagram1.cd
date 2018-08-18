@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Graduate">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAEAAAAEAABAAAAAAAAAgAgAEAAAAAAAAIIAA=</HashCode>
+      <FileName>graduate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Learner">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAABAARIIAAAEAAAAAAAEAAIAIIAQAAAAAAA=</HashCode>
+      <FileName>learner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pupil">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACBCAAAAAAAAAAAAAAAAEAACIAACAAAAAABAAA=</HashCode>
+      <FileName>pupil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAQAAACAAABAAAAAACAAAAAAAABAAAgAAACAA=</HashCode>
+      <FileName>student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

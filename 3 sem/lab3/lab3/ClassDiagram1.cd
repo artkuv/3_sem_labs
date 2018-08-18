@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="circle">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAACAAAAwAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="parallelepiped">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAQAAAAAABAAwAAAAAAAAAAAACCAAE=</HashCode>
+      <FileName>parallelepiped.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rectangle">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAwIAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape3D">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAACgASAAAAAAAAA=</HashCode>
+      <FileName>shape3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sphere">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAADAAAAAAAAABAAwAAAAAAAAAAAAACAAE=</HashCode>
+      <FileName>sphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

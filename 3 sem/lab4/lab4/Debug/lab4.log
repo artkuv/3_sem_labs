@@ -1,0 +1,34 @@
+﻿Построение начато Вт 02.01.18 12:35:10.
+     1>Проект "C:\work VS10\3 sem\lab4\lab4\lab4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt graduate.cpp learner.cpp main.cpp pupil.cpp student.cpp
+         student.cpp
+         pupil.cpp
+         main.cpp
+         learner.cpp
+     1>c:\work vs10\3 sem\lab4\lab4\learner.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\work vs10\3 sem\lab4\lab4\learner.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+         graduate.cpp
+         Создание кода...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work VS10\3 sem\lab4\Debug\lab4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work VS10\3 sem\lab4\Debug\lab4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work VS10\3 sem\lab4\Debug\lab4.lib" /MACHINE:X86 Debug\graduate.obj
+         Debug\learner.obj
+         Debug\main.obj
+         Debug\pupil.obj
+         Debug\student.obj
+         LINK : не найден или не выполнена сборка C:\work VS10\3 sem\lab4\Debug\lab4.exe при последней инкрементной компоновке; выполняется полная компоновка
+         lab4.vcxproj -> C:\work VS10\3 sem\lab4\Debug\lab4.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\work VS10\3 sem\lab4\Debug\lab4.exe;#1" /manifest Debug\lab4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab4.lastbuildstate".
+     1>Построение проекта "C:\work VS10\3 sem\lab4\lab4\lab4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.39

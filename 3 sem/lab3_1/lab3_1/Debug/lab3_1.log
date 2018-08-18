@@ -1,0 +1,26 @@
+﻿Построение начато Пн 15.01.18 11:49:49.
+     1>Проект "C:\work VS10\3 sem\lab3_1\lab3_1\lab3_1.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab3_1.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work VS10\3 sem\lab3_1\Debug\lab3_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab3_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work VS10\3 sem\lab3_1\Debug\lab3_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work VS10\3 sem\lab3_1\Debug\lab3_1.lib" /MACHINE:X86 Debug\circle.obj
+         Debug\func.obj
+         Debug\main.obj
+         Debug\parallelepiped.obj
+         Debug\rectangle.obj
+         Debug\sphere.obj
+         LINK : не найден или не выполнена сборка C:\work VS10\3 sem\lab3_1\Debug\lab3_1.exe при последней инкрементной компоновке; выполняется полная компоновка
+         lab3_1.vcxproj -> C:\work VS10\3 sem\lab3_1\Debug\lab3_1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\work VS10\3 sem\lab3_1\Debug\lab3_1.exe;#1" /manifest Debug\lab3_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab3_1.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab3_1.lastbuildstate".
+     1>Построение проекта "C:\work VS10\3 sem\lab3_1\lab3_1\lab3_1.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.96

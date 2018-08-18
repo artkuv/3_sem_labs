@@ -1,0 +1,17 @@
+﻿Построение начато Пн 15.01.18 11:43:49.
+     1>Проект "C:\work VS10\3 sem\lab2\lab2\lab2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         lab2.vcxproj -> C:\work VS10\3 sem\lab2\Debug\lab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab2.lastbuildstate".
+     1>Построение проекта "C:\work VS10\3 sem\lab2\lab2\lab2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.03

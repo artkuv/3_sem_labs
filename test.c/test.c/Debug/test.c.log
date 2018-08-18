@@ -1,0 +1,17 @@
+﻿Построение начато 25.09.2016 21:27:19.
+     1>Проект "D:\work VS10\test.c\test.c\test.c.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\test.c.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test1.c
+         test1.c
+     1>d:\work vs10\test.c\test.c\test1.c(3): error C2143: синтаксическая ошибка: отсутствие ")" перед "константа"
+     1>d:\work vs10\test.c\test.c\test1.c(3): error C2143: синтаксическая ошибка: отсутствие "{" перед "константа"
+     1>d:\work vs10\test.c\test.c\test1.c(3): error C2059: синтаксическая ошибка: <Нет данных>
+     1>d:\work vs10\test.c\test.c\test1.c(3): error C2059: синтаксическая ошибка: )
+     1>d:\work vs10\test.c\test.c\test1.c(12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Построение проекта "D:\work VS10\test.c\test.c\test.c.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.16

@@ -1,0 +1,34 @@
+﻿Построение начато Пн 29.01.18 21:02:59.
+     1>Проект "C:\work VS10\3 sem\STL_1\STL_1\STL_1.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\work VS10\3 sem\STL_1\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\STL_1.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EVM.cpp main.cpp monoblock.cpp port.cpp stationar.cpp
+         stationar.cpp
+         port.cpp
+         monoblock.cpp
+         main.cpp
+         EVM.cpp
+         Создание кода...
+     1>c:\work vs10\3 sem\stl_1\stl_1\monoblock.cpp(46): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+     1>c:\work vs10\3 sem\stl_1\stl_1\port.cpp(41): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+     1>c:\work vs10\3 sem\stl_1\stl_1\stationar.cpp(65): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work VS10\3 sem\STL_1\Debug\STL_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\STL_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work VS10\3 sem\STL_1\Debug\STL_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work VS10\3 sem\STL_1\Debug\STL_1.lib" /MACHINE:X86 Debug\EVM.obj
+         Debug\main.obj
+         Debug\monoblock.obj
+         Debug\port.obj
+         Debug\stationar.obj
+         STL_1.vcxproj -> C:\work VS10\3 sem\STL_1\Debug\STL_1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\work VS10\3 sem\STL_1\Debug\STL_1.exe;#1" /manifest Debug\STL_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\STL_1.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\STL_1.lastbuildstate".
+     1>Построение проекта "C:\work VS10\3 sem\STL_1\STL_1\STL_1.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.92

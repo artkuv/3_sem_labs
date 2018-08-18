@@ -1,0 +1,137 @@
+﻿Построение начато 10.06.2017 14:04:22.
+     1>Проект "D:\work VS10\2lr5\2lr5\2lr5.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\2lr5.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt data.c menu.c stack.c
+         stack.c
+     1>d:\work vs10\2lr5\2lr5\list.h(8): error C2079: "data" использует неопределенный struct "info"
+     1>d:\work vs10\2lr5\2lr5\stack.c(21): warning C4133: функция: несовместимые типы - из "int *" в "info *"
+         menu.c
+     1>d:\work vs10\2lr5\2lr5\list.h(8): error C2079: "data" использует неопределенный struct "info"
+         data.c
+     1>d:\work vs10\2lr5\2lr5\data.c(10): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(11): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(16): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(16): error C2198: gets: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(20): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(21): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(27): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(28): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(28): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(31): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(34): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(34): error C2198: gets: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(40): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(41): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(41): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(54): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(55): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(56): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(57): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(59): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(66): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(66): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(67): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(67): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(71): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(71): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(71): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(71): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(72): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(72): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(75): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(75): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(75): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(75): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(82): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(82): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(85): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(85): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(85): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(85): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(85): error C2198: strcpy: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(86): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(86): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(86): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(86): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(87): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(87): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(87): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(87): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(88): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(88): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(88): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(88): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(88): error C2198: strcpy: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(89): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(89): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(89): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(89): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(91): error C2036: info *: неизвестный размер
+     1>d:\work vs10\2lr5\2lr5\data.c(91): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(91): error C2198: free: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(92): error C2027: использование неопределенного типа "info"
+                 d:\work vs10\2lr5\2lr5\data.h(22): см. объявление "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(98): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(98): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(98): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(98): warning C4024: fwrite: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(98): error C2198: fwrite: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(99): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(99): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(99): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(99): warning C4024: fwrite: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(99): error C2198: fwrite: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(100): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(100): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(100): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(100): warning C4024: fwrite: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(100): error C2198: fwrite: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(101): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(102): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(102): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(102): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(102): warning C4024: fwrite: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(102): error C2198: fwrite: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(104): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(104): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(104): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(104): warning C4024: fwrite: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(104): error C2198: fwrite: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(108): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(109): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(111): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(111): warning C4022: fread: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(111): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(111): warning C4024: fread: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(111): error C2198: fread: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(112): error C2037: слева от "name" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(112): error C2198: free: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(115): error C2037: слева от "cost" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(115): warning C4022: fread: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(115): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(115): warning C4024: fread: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(115): error C2198: fread: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(116): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(116): warning C4022: fread: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(116): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(116): warning C4024: fread: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(116): error C2198: fread: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(117): error C2037: слева от "id" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(118): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(118): warning C4022: fread: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(118): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(118): warning C4024: fread: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(118): error C2198: fread: слишком мало аргументов для вызова
+     1>d:\work vs10\2lr5\2lr5\data.c(121): error C2037: слева от "inf" указана неопределенная структура или объединение "info"
+     1>d:\work vs10\2lr5\2lr5\data.c(121): warning C4022: fread: несоответствие указателя для фактического параметра 1
+     1>d:\work vs10\2lr5\2lr5\data.c(121): warning C4047: функция: "size_t" отличается по уровням косвенного обращения от "FILE *"
+     1>d:\work vs10\2lr5\2lr5\data.c(121): warning C4024: fread: различные типы для формального и фактического параметров 3
+     1>d:\work vs10\2lr5\2lr5\data.c(121): error C2198: fread: слишком мало аргументов для вызова
+         Создание кода...
+     1>Построение проекта "D:\work VS10\2lr5\2lr5\2lr5.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.30

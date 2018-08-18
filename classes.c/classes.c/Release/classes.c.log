@@ -1,0 +1,116 @@
+﻿Построение начато 30.09.2016 10:13:32.
+     1>Проект "D:\work VS10\classes.c\classes.c\classes.c.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\work VS10\classes.c\Release\".
+       InitializeBuildStatus:
+         Создание "Release\classes.c.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt classes.c
+         classes.c
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(19): error C2061: синтаксическая ошибка: идентификатор "acosf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(19): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(19): error C2061: синтаксическая ошибка: идентификатор "asinf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(19): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2061: синтаксическая ошибка: идентификатор "atanf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2061: синтаксическая ошибка: идентификатор "atan2f"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2061: синтаксическая ошибка: идентификатор "ceilf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(20): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2061: синтаксическая ошибка: идентификатор "cosf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2061: синтаксическая ошибка: идентификатор "coshf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2061: синтаксическая ошибка: идентификатор "expf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(21): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2061: синтаксическая ошибка: идентификатор "fabsf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2061: синтаксическая ошибка: идентификатор "floorf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2061: синтаксическая ошибка: идентификатор "fmodf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(22): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2061: синтаксическая ошибка: идентификатор "frexpf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2061: синтаксическая ошибка: идентификатор "ldexpf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2061: синтаксическая ошибка: идентификатор "logf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(23): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2061: синтаксическая ошибка: идентификатор "log10f"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2061: синтаксическая ошибка: идентификатор "modff"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2061: синтаксическая ошибка: идентификатор "powf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(24): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2061: синтаксическая ошибка: идентификатор "sinf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2061: синтаксическая ошибка: идентификатор "sinhf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2061: синтаксическая ошибка: идентификатор "sqrtf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(25): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(26): error C2061: синтаксическая ошибка: идентификатор "tanf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(26): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(26): error C2061: синтаксическая ошибка: идентификатор "tanhf"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(26): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(28): error C2061: синтаксическая ошибка: идентификатор "acosl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(28): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(28): error C2061: синтаксическая ошибка: идентификатор "asinl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(28): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2061: синтаксическая ошибка: идентификатор "atanl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2061: синтаксическая ошибка: идентификатор "atan2l"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2061: синтаксическая ошибка: идентификатор "ceill"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(29): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2061: синтаксическая ошибка: идентификатор "cosl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2061: синтаксическая ошибка: идентификатор "coshl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2061: синтаксическая ошибка: идентификатор "expl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(30): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2061: синтаксическая ошибка: идентификатор "fabsl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2061: синтаксическая ошибка: идентификатор "floorl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2061: синтаксическая ошибка: идентификатор "fmodl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(31): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2061: синтаксическая ошибка: идентификатор "frexpl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2061: синтаксическая ошибка: идентификатор "ldexpl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2061: синтаксическая ошибка: идентификатор "logl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(32): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2061: синтаксическая ошибка: идентификатор "log10l"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2061: синтаксическая ошибка: идентификатор "modfl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2061: синтаксическая ошибка: идентификатор "powl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(33): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2061: синтаксическая ошибка: идентификатор "sinl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2061: синтаксическая ошибка: идентификатор "sinhl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2061: синтаксическая ошибка: идентификатор "sqrtl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(34): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(35): error C2061: синтаксическая ошибка: идентификатор "tanl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(35): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(35): error C2061: синтаксическая ошибка: идентификатор "tanhl"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(35): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(37): error C2061: синтаксическая ошибка: идентификатор "abs"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(37): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(39): error C2061: синтаксическая ошибка: идентификатор "acos"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(39): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(39): error C2061: синтаксическая ошибка: идентификатор "asin"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(39): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2061: синтаксическая ошибка: идентификатор "atan"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2061: синтаксическая ошибка: идентификатор "atan2"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2061: синтаксическая ошибка: идентификатор "ceil"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(40): error C2059: синтаксическая ошибка: ;
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(41): error C2061: синтаксическая ошибка: идентификатор "cos"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath(41): fatal error C1003: число ошибок превышает 100; остановка компиляции
+     1>Построение проекта "D:\work VS10\classes.c\classes.c\classes.c.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.51

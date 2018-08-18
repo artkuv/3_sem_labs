@@ -1,0 +1,130 @@
+﻿Построение начато 30.05.2017 12:09:53.
+     1>Проект "D:\work VS10\laba7\laba7\laba7.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\work VS10\laba7\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\laba7.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt data.c queue.c ring.c stack.c
+         stack.c
+     1>d:\work vs10\laba7\laba7\stack.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\work vs10\laba7\laba7\stack.c(68): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277): см. объявление "gets"
+     1>d:\work vs10\laba7\laba7\stack.c(96): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277): см. объявление "gets"
+     1>d:\work vs10\laba7\laba7\stack.c(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>d:\work vs10\laba7\laba7\stack.c(114): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277): см. объявление "gets"
+     1>d:\work vs10\laba7\laba7\stack.c(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+         ring.c
+     1>d:\work vs10\laba7\laba7\ring.c(17): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(21): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(21): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(22): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(23): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(42): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(45): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(46): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(70): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(78): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(78): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(79): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(83): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(84): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(85): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(85): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(89): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(90): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(90): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(164): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(168): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(168): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(169): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(170): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(178): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(179): warning C4133: !=: несовместимые типы - из "Item *" в "stack *"
+     1>d:\work vs10\laba7\laba7\ring.c(181): error C2039: prev: не является членом "stack"
+                 d:\work vs10\laba7\laba7\list.h(14): см. объявление "stack"
+     1>d:\work vs10\laba7\laba7\ring.c(181): error C2198: free: слишком мало аргументов для вызова
+         queue.c
+     1>d:\work vs10\laba7\laba7\queue.c(8): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(21): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(22): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(25): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(26): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(27): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(55): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(148): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(150): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(154): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(155): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(156): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(164): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(170): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(170): error C2039: tail: не является членом "ListDescriptor"
+                 d:\work vs10\laba7\laba7\list.h(26): см. объявление "ListDescriptor"
+     1>d:\work vs10\laba7\laba7\queue.c(170): error C2198: free: слишком мало аргументов для вызова
+         data.c
+     1>d:\work vs10\laba7\laba7\data.c(16): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277): см. объявление "gets"
+     1>d:\work vs10\laba7\laba7\data.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\work vs10\laba7\laba7\data.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\work vs10\laba7\laba7\data.c(34): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277): см. объявление "gets"
+     1>d:\work vs10\laba7\laba7\data.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\work vs10\laba7\laba7\data.c(8): warning C4101: l: неиспользованная локальная переменная
+     1>d:\work vs10\laba7\laba7\data.c(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>d:\work vs10\laba7\laba7\data.c(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+         Создание кода...
+     1>Построение проекта "D:\work VS10\laba7\laba7\laba7.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.95

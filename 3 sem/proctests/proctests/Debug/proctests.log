@@ -1,0 +1,18 @@
+﻿Построение начато Чт 24.05.18 13:39:38.
+     1>Проект "C:\work VS10\3 sem\proctests\proctests\proctests.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\proctests.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\work vs10\3 sem\proctests\proctests\main.cpp(13): error C2275: STARTUPINFO: недопустимое использование этого типа в качестве выражения
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.h(6573): см. объявление "STARTUPINFO"
+     1>c:\work vs10\3 sem\proctests\proctests\main.cpp(13): error C2059: синтаксическая ошибка: &
+     1>c:\work vs10\3 sem\proctests\proctests\main.cpp(16): error C2228: выражение слева от ".WaitForSingleObject" должно представлять класс, структуру или объединение
+     1>c:\work vs10\3 sem\proctests\proctests\main.cpp(16): error C2228: выражение слева от ".hProcess" должно представлять класс, структуру или объединение
+                 тип: 'unknown-type'
+     1>Построение проекта "C:\work VS10\3 sem\proctests\proctests\proctests.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.90

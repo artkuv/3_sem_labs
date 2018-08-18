@@ -1,0 +1,22 @@
+﻿Построение начато Вт 30.01.18 17:17:55.
+     1>Проект "C:\work VS10\3 sem\tfiles\tfiles\tfiles.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\tfiles.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp main.cpp
+         main.cpp
+     1>c:\work vs10\3 sem\tfiles\tfiles\main.cpp(10): error C2374: obj: переопределение; множественная инициализация
+                 c:\work vs10\3 sem\tfiles\tfiles\main.cpp(8): см. объявление "obj"
+         Создание кода...
+         Компиляция...
+         Source.cpp
+     1>c:\work vs10\3 sem\tfiles\tfiles\source.cpp(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\work vs10\3 sem\tfiles\tfiles\source.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+         Создание кода...
+     1>Построение проекта "C:\work VS10\3 sem\tfiles\tfiles\tfiles.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.69
